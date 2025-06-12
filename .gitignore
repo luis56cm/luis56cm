@@ -1,0 +1,11 @@
+# Ignorar archivo grande
+plataforma-academica/client/src/Oracle_JDK-23/lib/modules
+
+# Ignorar cosas comunes
+node_modules/
+.env
+*.log
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.vscode/
